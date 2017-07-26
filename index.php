@@ -19,7 +19,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <div class="col-xs-12 phone-nav">
-                    <a class="navbar-brand" href="#" id="logo">Your Name</a>
+                    <a class="navbar-brand" href="#" id="logo">Matthew Triantafellu</a>
                 </div>
             </div>
 
