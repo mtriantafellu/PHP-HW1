@@ -20,7 +20,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#" id="logo">Your Name</a>
+            <a class="navbar-brand" href="#" id="logo">Matthew Triantafellu</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -28,7 +28,7 @@
             <ul class="nav navbar-nav navbar-right navbar-right-custom">
                 <li><a href="contact.php">Contact</a></li><span class="pipe"></span>
                 <li><a href="projects.php">Portfolio</a></li><span class="pipe"></span>
-                <li><a href="index.php">About</a></li>
+                <li><a href="about.php">About</a></li>
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
